@@ -1,0 +1,7 @@
+# Fichiers de travail non utilisés par le site
+video/
+parts/orig/
+models/hd/src/
+models/*.json
+parts/*.json
+README.md
